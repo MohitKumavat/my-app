@@ -11,7 +11,7 @@ function View() {
         <Row>
             <Col>
             <Card className='View-Scene-Card'>
-            <Card.Img style={{height: '18rem'}}  src={CardImage1} />
+            <Card.Img   src={CardImage1} />
             <Card.Body>
                 <Card.Title>Plan R1</Card.Title>
                 <Card.Text>
@@ -30,7 +30,7 @@ function View() {
             </Col>
             <Col>
             <Card className='View-Scene-Card'>
-            <Card.Img style={{height: '18rem'}}  src={CardImage2} />
+            <Card.Img   src={CardImage2} />
             <Card.Body>
                 <Card.Title>Plan R1</Card.Title>
                 <Card.Text>
@@ -49,7 +49,7 @@ function View() {
             </Col>
             <Col>
             <Card className='View-Scene-Card'>
-            <Card.Img style={{height: '18rem'}}  src={CardImage3} />
+            <Card.Img src={CardImage3} />
             <Card.Body>
                 <Card.Title>Plan R1</Card.Title>
                 <Card.Text>
@@ -71,7 +71,7 @@ function View() {
         <Row>
             <Col>
             <Card className='View-Scene-Card'>
-            <Card.Img style={{height: '18rem'}}  src={CardImage1} />
+            <Card.Img  src={CardImage1} />
             <Card.Body>
                 <Card.Title>Plan R1</Card.Title>
                 <Card.Text>
@@ -90,7 +90,7 @@ function View() {
             </Col>
             <Col>
             <Card className='View-Scene-Card'>
-            <Card.Img style={{height: '18rem'}}  src={CardImage2} />
+            <Card.Img src={CardImage2} />
             <Card.Body>
                 <Card.Title>Plan R1</Card.Title>
                 <Card.Text>
@@ -109,7 +109,7 @@ function View() {
             </Col>
             <Col>
             <Card className='View-Scene-Card'>
-            <Card.Img style={{height: '18rem'}}  src={CardImage3} />
+            <Card.Img   src={CardImage3} />
             <Card.Body>
                 <Card.Title>Plan R1</Card.Title>
                 <Card.Text>

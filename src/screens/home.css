@@ -2,6 +2,7 @@
     background-color: rgb(69, 109, 106);
     justify-content:center;
     height:fit-content; 
+    width: fit-content;
     padding-top: 20px;
     border-radius: 10px;
     border-style: solid;
@@ -10,8 +11,8 @@
 
 .View-Scene-Card{
     justify-content: center;
-    width: 25rem;
-    height: 25rem;
+    width: 18rem;
+    height: 18rem;
     align-self: center;
     margin-bottom: 5rem;
     
